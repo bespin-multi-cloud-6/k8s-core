@@ -41,7 +41,7 @@ spec:
       
       containers:
       - name: gallery
-        image: dkrcore/gallery:2.0
+        image: 487986307957.dkr.ecr.ap-northeast-2.amazonaws.com/gallery:2.0
         ports:
         - containerPort: 8080
 
